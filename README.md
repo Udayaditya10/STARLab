@@ -14,3 +14,13 @@ GitHub Username: Udayaditya10
 
 To learn repository creation, version control, and basic Git operations.
 
+
+
+\## Feature Update
+
+
+
+Branching and merging exercise completed by Udayaditya10.
+
+Date: 28 October 2026
+
